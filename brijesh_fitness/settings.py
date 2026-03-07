@@ -39,7 +39,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'GymManagementSystem.urls'
+ROOT_URLCONF = 'brijesh_fitness.urls'
 
 TEMPLATES = [
     {
@@ -57,7 +57,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'GymManagementSystem.wsgi.application'
+WSGI_APPLICATION = 'brijesh_fitness.wsgi.application'
 
 
 # Database
