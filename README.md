@@ -1,2 +1,1 @@
-hello im mali vishal 
-
+Developed and deployed a Django-based Gym Management application with a fully automated CI/CD pipeline using GitHub Actions and Docker. Hosted the application on AWS EC2, enabling automated build, test, and deployment on every code push. Reduced manual deployment efforts and ensured consistent application delivery through containerization
